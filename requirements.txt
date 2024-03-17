@@ -1,0 +1,4 @@
+langchain
+psycopg2
+langchain-experimental
+langchain-community
